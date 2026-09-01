@@ -1,5 +1,5 @@
 [project]
-name = "build-ai-agents-from-scratch"
+name = "ai-agents"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,7 +10,7 @@ requires-python = ">=3.12"
 dependencies = []
 
 [project.scripts]
-build-ai-agents-from-scratch = "build_ai_agents_from_scratch:main"
+ai-agents = "ai_agents"
 
 [build-system]
 requires = ["uv_build>=0.12.8,<0.13.0"]
