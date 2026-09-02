@@ -1,0 +1,9 @@
+ipynb-kernel
+dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langgraph
+youtube-search-python
+youtube-search
