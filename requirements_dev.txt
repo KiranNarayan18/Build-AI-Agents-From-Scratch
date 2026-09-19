@@ -1,4 +1,4 @@
-ipynb-kernel
+ipykernel
 dotenv
 langchain
 langchain-community
@@ -7,6 +7,8 @@ langchain-core
 langgraph
 youtube-search-python
 youtube-search
+langchain-groq
+
 
 
 -e .
