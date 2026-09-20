@@ -8,7 +8,11 @@ langgraph
 youtube-search-python
 youtube-search
 langchain-groq
-
+pillow
+wikipedia
+langchain-tavily
+ddgs
+yfinance
 
 
 -e .
