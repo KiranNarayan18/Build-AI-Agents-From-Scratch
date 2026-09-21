@@ -22,6 +22,7 @@ members = [
     ".",
     ".",
     ".",
+    ".",
 ]
 
 [tool.uv.sources]
@@ -41,6 +42,7 @@ dev = [
     "langchain-tavily>=0.2.18",
     "langgraph>=1.2.11",
     "pillow>=12.3.0",
+    "structlog>=26.1.0",
     "wikipedia>=1.4.0",
     "yfinance>=1.7.0",
     "youtube-search>=2.2.0",

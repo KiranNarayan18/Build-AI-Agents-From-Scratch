@@ -13,6 +13,6 @@ wikipedia
 langchain-tavily
 ddgs
 yfinance
-
+structlog
 
 -e .
