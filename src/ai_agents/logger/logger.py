@@ -49,6 +49,6 @@ class Logger:
 
 if __name__ == "__main__":
     logger = Logger().get_logger(__file__)
-    logger.info("User uploaded a file", user_id=123, filename="report.pdf")
+    logger.info("User uploaded a file", user_id=123, filename=os.path.basename(__file__))
     logger.error("Failed to process PDF", error="File not found", user_id=123)
 
